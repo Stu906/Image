@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+.name_of_objects{
+    color: deeppink;
+}
+.heading{
+    background-color:chartreuse;
+    font-style: italic;
+    font-weight: bold;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
